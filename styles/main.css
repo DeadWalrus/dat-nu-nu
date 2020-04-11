@@ -1,4 +1,8 @@
-p
+p.red
 {
 	color: red;
+}
+#paragraph-text
+{
+	resize: none;
 }
